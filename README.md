@@ -4,8 +4,8 @@ public URL : https://gitfront.io/r/paramee/CUW8MffxCEys/fullstackNodeJS-practice
 
 <h3>Family_Travel_Tracker</h3> using : just PosygreSQL <br>
 
-<h3>To_DO_List using</h3> : just PosygreSQL <br>
+<h3>To_DO_List </h3> using : just PosygreSQL <br>
 
-<h3>World_Capital_Quiz using</h3> : just PosygreSQL <br>
+<h3>World_Capital_Quiz </h3> using : just PosygreSQL <br>
 
 <h3>database_Aut_google_cookie</h3> using : PosygreSQL + HashingPassword+Google-Auth2.0 + cookie(passport)<br>
